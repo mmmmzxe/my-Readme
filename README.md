@@ -25,8 +25,8 @@ technologies
 
 ## 📫 How to reach me
 - **Email**: maryem.mostafa00@gmailcom
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/mmmmzxe/)
-- **Portfolio**: [Your Portfolio](https://portfolio-maryem-mostafa.netlify.app/)
+- **LinkedIn**: [ LinkedIn](https://www.linkedin.com/in/mmmmzxe/)
+- **Portfolio**: [ Portfolio](https://portfolio-maryem-mostafa.netlify.app/)
 
 
 ## ✨ Fun fact
