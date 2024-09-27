@@ -28,6 +28,3 @@ technologies
 - **LinkedIn**: [ LinkedIn](https://www.linkedin.com/in/mmmmzxe/)
 - **Portfolio**: [ Portfolio](https://portfolio-maryem-mostafa.netlify.app/)
 
-
-## ✨ Fun fact
-Did you know? The first website was published in 1991 by Tim Berners-Lee. We’ve come a long way since then!
